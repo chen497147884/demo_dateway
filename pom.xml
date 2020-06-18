@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.qf</groupId>
-    <artifactId>dataway_demo</artifactId>
+    <artifactId>dataway_domo</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>dataway_demo</name>
     <description>Demo project for Spring Boot</description>
